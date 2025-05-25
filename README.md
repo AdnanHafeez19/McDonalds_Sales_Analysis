@@ -16,7 +16,7 @@ Category-wise monthly comparisons
 Average items per order & order volume distribution
 
 🛠️ Tools Used:
-Microsoft Excel
+Microsoft Excel and Power BI
 
 Power Query Editor (for data cleaning)
 
